@@ -10,4 +10,8 @@ Making your own preset is not that hard to do if you want yours to look a differ
 
 So far there are PS4, PS5, and Xbox controller presets based on the first-party controller designs.
 
+Note that input overlays are not automatically synchronized with gameplay capture. You can add a render delay to the overlay with a filter in OBS to compensate, if you care. The best method I found is to go into the menu in a game and see what the delay is between the input overlay showing a directional input and the game menu responding. Then you can adjust the render delay until the two are more-or-less in sync. Personally, a 45-millisecond delay works pretty well.
+
+***
+
 ![preview gif of controller overlays](https://github.com/Phetri-A/Phetri-input-overlays/blob/main/PREVIEW.gif)
