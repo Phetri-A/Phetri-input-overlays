@@ -9,3 +9,5 @@ The png files have only have a few colors with no gradients to make for easy edi
 Making your own preset is not that hard to do if you want yours to look a different way.
 
 So far there are PS4, PS5, and Xbox controller presets based on the first-party controller designs.
+
+![preview gif of controller overlays](https://github.com/Phetri-A/Phetri-input-overlays/blob/main/PREVIEW.gif)
