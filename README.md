@@ -7,3 +7,5 @@ Simply download matching json and png files to use with the OBS plugin.
 The png files have only have a few colors with no gradients to make for easy editing to suite your tastes.
 
 Making your own preset is not that hard to do if you want yours to look a different way.
+
+So far there are PS4, PS5, and Xbox controller presets based on the first-party controller designs.
