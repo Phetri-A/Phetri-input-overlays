@@ -4,7 +4,7 @@ These presets are made to be used with the Input Overlay plugin for OBS (tested 
 
 Simply download matching json and png files to use with the OBS plugin (or download the zip file with all of them in the [releases](https://github.com/Phetri-A/Phetri-input-overlays/releases) section).
 
-The png files have only have a few colors with no gradients to make for easy editing to suite your tastes.
+The png files have only have a few colors with no gradients to make for easy editing to suite your tastes. There are also 13 pre-made colors if you don't know how to change it or just can't be bothered.
 
 Making your own preset is not that hard to do if you want yours to look a different way. Here's a video I made explaining how the config and texture files work: https://www.youtube.com/watch?v=D9M6xqsPZ-Q
 
@@ -15,3 +15,7 @@ Note that input overlays are not automatically synchronized with gameplay captur
 ***
 
 ![preview gif of controller overlays](https://github.com/Phetri-A/Phetri-input-overlays/blob/main/PREVIEW.gif)
+
+***
+
+![preview of 13 available colors](
