@@ -18,4 +18,4 @@ Note that input overlays are not automatically synchronized with gameplay captur
 
 ***
 
-![preview of 13 available colors](
+![preview of 13 available colors](https://github.com/Phetri-A/Phetri-input-overlays/blob/main/controller%20colors%20PREVIEW.png)
