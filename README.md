@@ -1,6 +1,6 @@
 ### The overlays are meant to be resized in OBS to half size or smaller to smooth out jagged edges. You should turn on Bilinear Scale Filtering for the OBS source by right clicking, going into the "Scale Filtering" submenu, and selecting "Bilinear". It will look much nicer.
 
-**INSTALL THIS FIRST.** These presets are made to be used with the Input Overlay plugin for OBS (tested with version 5.0.6): https://github.com/univrsal/input-overlay
+**INSTALL THIS FIRST.** These presets are made to be used with the Input Overlay plugin for OBS (tested with version 5.0.6): https://github.com/univrsal/input-overlay Version 5.1.0 works better for some people too.
 
 After installing the above plugin, simply download matching json and png files to use with the OBS plugin (or download the zip file with all of them in the [releases](https://github.com/Phetri-A/Phetri-input-overlays/releases) section).
 
