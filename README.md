@@ -2,7 +2,7 @@
 
 **INSTALL THIS FIRST.** These presets are made to be used with the Input Overlay plugin for OBS (tested with version 5.0.6): https://github.com/univrsal/input-overlay
 
-Simply download matching json and png files to use with the OBS plugin (or download the zip file with all of them in the [releases](https://github.com/Phetri-A/Phetri-input-overlays/releases) section).
+After installing the above plugin, simply download matching json and png files to use with the OBS plugin (or download the zip file with all of them in the [releases](https://github.com/Phetri-A/Phetri-input-overlays/releases) section).
 
 The png files have only have a few colors with no gradients to make for easy editing to suite your tastes. There are also 13 pre-made colors if you don't know how to change it or just can't be bothered.
 
